@@ -1,7 +1,7 @@
  <h1 align="center">Hi there,  I'm <a href="https://olenaportfolio.netlify.app/" target="_blank">Olena</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer</h3>
-<hr>
+<h4> align="center">Passionate Frontend Developer | React Enthusiast | Always Learning, Always Improving </h4>
+<br>
 
 - 🔭 I’m currently biulding projects using JavaScript, ReactJS and Django
 - 🌱 I’m currently learning ThreeJS and React Native
@@ -26,6 +26,7 @@
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
 
 <!--
