@@ -1,6 +1,6 @@
  <h1 align="center">Hi there,  I'm <a href="https://olenaportfolio.netlify.app/" target="_blank">Olena</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4> align="center">Passionate Frontend Developer | React Enthusiast | Always Learning, Always Improving </h4>
+<h3 align="center">Passionate Frontend Developer | React Enthusiast | Always Learning, Always Improving </h3>
 <br>
 
 - 🔭 I’m currently biulding projects using JavaScript, ReactJS and Django
