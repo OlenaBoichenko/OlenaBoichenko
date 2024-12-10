@@ -25,7 +25,7 @@
  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlenaBoichenko&theme=solarized_dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlenaBoichenko&theme=solarized_dark)
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
