@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Frontend Developer | React Enthusiast | Always Learning, Always Improving </h3>
 <br>
 
-- 🔭 I’m currently biulding projects using JavaScript, ReactJS and Django
+- 🔭 I’m currently biulding projects using JavaScript, ReactJS and NextJS
 - 🌱 I’m currently learning ThreeJS and React Native
 - ⚡ Fun fact: I'm a certified competent crew and the sea is my element thing.
 
